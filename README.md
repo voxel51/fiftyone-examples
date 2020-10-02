@@ -17,6 +17,22 @@ common tasks.
 Examples are typically provided as [Jupyter Notebooks](https://jupyter.org)
 to make it easy for users to download and run them.
 
+## Usage
+
+This repository assumes that you have `fiftyone` installed on your machine.
+See [this page](https://voxel51.com/docs/fiftyone/getting_started/install.html)
+for installation instructions, or refer to
+[this page](https://github.com/voxel51/fiftyone#installing-from-source) for
+instructions on installing FiftyOne from source.
+
+You can install Jupyter via [these instructions](https://jupyter.org/install).
+
+You can run a notebook as follows:
+
+```
+jupyter notebook examples/an_awesome_example.ipynb
+```
+
 ## Contributing
 
 This repository is open source and community contributions are welcome!
@@ -31,10 +47,5 @@ pre-commit hooks so that your changes will be passed through our linting tools:
 pre-commit install
 ```
 
-## Usage
-
-This repository assumes that you have `fiftyone` installed on your machine.
-See [this page](https://voxel51.com/docs/fiftyone/getting_started/install.html)
-for installation instructions, or refer to
-[this page](https://github.com/voxel51/fiftyone#installing-from-source) for
-instructions on installing FiftyOne from source.
+Check out the notebook templates in `template/` to get started writing a new
+example.
