@@ -23,3 +23,18 @@ This repository is open source and community contributions are welcome!
 
 Check out the [contribution guide](CONTRIBUTING.md) to learn how to get
 involved.
+
+If you are contributing new material to this repository, please install the
+pre-commit hooks so that your changes will be passed through our linting tools:
+
+```
+pre-commit install
+```
+
+## Usage
+
+This repository assumes that you have `fiftyone` installed on your machine.
+See [this page](https://voxel51.com/docs/fiftyone/getting_started/install.html)
+for installation instructions, or refer to
+[this page](https://github.com/voxel51/fiftyone#installing-from-source) for
+instructions on installing FiftyOne from source.
