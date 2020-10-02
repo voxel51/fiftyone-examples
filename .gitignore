@@ -1,0 +1,15 @@
+
+**/*.DS_store
+
+__pycache__
+*.py[cod]
+
+*.egg-info
+.project
+.pydevproject
+**/*.ipynb_checkpoints
+.idea
+
+*~
+
+data/
