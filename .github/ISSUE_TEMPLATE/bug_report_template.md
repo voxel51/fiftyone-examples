@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Use this template for reporting bugs encountered while using FiftyOne.
+about: Use this template for reporting bugs encountered while running FiftyOne Examples.
 labels: "bug"
 title: "[BUG]"
 ---
@@ -8,7 +8,7 @@ title: "[BUG]"
 ### Instructions
 
 Thank you for submitting an issue. Please refer to our
-[issue policy](https://www.github.com/voxel51/fiftyone/blob/develop/ISSUE_POLICY.md)
+[issue policy](https://www.github.com/voxel51/fiftyone-examples/blob/master/ISSUE_POLICY.md)
 for information on what types of issues we address.
 
 **Please fill in this template to ensure a timely and thorough response.**
@@ -55,6 +55,7 @@ files should be attached.
 -   [ ] `App`: FiftyOne application issue
 -   [ ] `Core`: Core `fiftyone` Python library issue
 -   [ ] `Server`: Fiftyone server issue
+-   [ ] `Examples`: Fiftyone examples
 
 ### Willingness to contribute
 

@@ -8,7 +8,7 @@ title: "[FR]"
 ### Instructions
 
 Thank you for submitting an issue. Please refer to our
-[issue policy](https://www.github.com/voxel51/fiftyone/blob/develop/ISSUE_POLICY.md)
+[issue policy](https://www.github.com/voxel51/fiftyone-examples/blob/master/ISSUE_POLICY.md)
 for information on what types of issues we address.
 
 **Please fill in this template to ensure a timely and thorough response.**
@@ -32,12 +32,6 @@ request)
 -   Why is it currently difficult to achieve this use case? (please be as
     specific as possible about why related FiftyOne features and components are
     insufficient)
-
-### What areas of FiftyOne does this feature affect?
-
--   [ ] App: FiftyOne application
--   [ ] Core: Core `fiftyone` Python library
--   [ ] Server: FiftyOne server
 
 ### Details
 
