@@ -25,6 +25,7 @@ repos:
         name: ipynb-strip
         language: system
         files: \.ipynb$
+        exclude: ^examples/ # *do* commit ipynb outputs in `examples/`
         entry: jupyter nbconvert --clear-output --ClearOutputPreprocessor.enabled=True
         args: ["--log-level=ERROR"]
   - repo: https://github.com/prettier/prettier
