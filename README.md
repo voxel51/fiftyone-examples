@@ -47,5 +47,5 @@ pre-commit hooks so that your changes will be passed through our linting tools:
 pre-commit install
 ```
 
-Check out the notebook templates in `template/` to get started writing a new
+Check out the notebook templates in `templates/` to get started writing a new
 example.
