@@ -4,34 +4,41 @@
 
 [FiftyOne](http://www.voxel51.com/docs/fiftyone) is an open source machine
 learning tool created by [Voxel51](https://voxel51.com) that helps you rapidly
-experiment with your data and ML models.
-
-Check out the main github repository for the project at
-https://github.com/voxel51/fiftyone.
-
-## Contents
+experiment with your data and ML models. Check out the main github repository
+for the project at https://github.com/voxel51/fiftyone.
 
 This repository contains various examples of using FiftyOne to accomplish
 common tasks.
 
-Examples are typically provided as [Jupyter Notebooks](https://jupyter.org)
-to make it easy for users to download and run them.
-
 ## Usage
 
-This repository assumes that you have `fiftyone` installed on your machine.
-See [this page](https://voxel51.com/docs/fiftyone/getting_started/install.html)
-for installation instructions, or refer to
+This repository assumes that you have `fiftyone` installed on your machine. See
+[this page](https://voxel51.com/docs/fiftyone/getting_started/install.html) for
+installation instructions, or refer to
 [this page](https://github.com/voxel51/fiftyone#installing-from-source) for
 instructions on installing FiftyOne from source.
 
-You can install Jupyter via [these instructions](https://jupyter.org/install).
+Examples are typically provided as [Jupyter Notebooks](https://jupyter.org) to
+make it easy for users to download and run them. You can install Jupyter via
+[these instructions](https://jupyter.org/install).
 
 You can run a notebook as follows:
 
 ```
 jupyter notebook examples/an_awesome_example.ipynb
 ```
+
+## Table of Contents
+
+| Example                                                                                           | Description                                                                                      |
+| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| [comparing_YOLO_and_EfficientDet](examples/comparing_YOLO_and_EfficientDet.ipynb)                 | Compares the YOLOv4 and EfficientDet object detection models on the COCO dataset                 |
+| [emotion_recognition_presidential_debate](examples/emotion_recognition_presidential_debate.ipynb) | Analyzing the 2020 US Presidential Debates using an emotion recognition model                    |
+| [evaluate_detections](examples/evaluate_detections.ipynb)                                         | Using FiftyOne to quantitatively and qualitatively evaluate object detections                    |
+| [image_uniqueness](examples/image_uniqueness.ipynb)                                               | Using FiftyOne's image uniqueness method to analyze and extract insights from unlabeled datasets |
+| [structured_noise_injection](examples/structured_noise_injection.ipynb)                           | Visually exploring a method for structured noise injection in GANs from CVPR 2020                |
+| [visym_pip_175k](examples/visym_pip_175k.ipynb)                                                   | Exploring the People in Public 175K Dataset from Visym Labs with FiftyOne                        |
+| [wrangling_datasets](examples/wrangling_datasets.ipynb)                                           | Using FiftyOne to load, manipulate, and export datasets in common formats                        |
 
 ## Contributing
 
