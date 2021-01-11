@@ -40,6 +40,7 @@ jupyter notebook examples/an_awesome_example.ipynb
 | [structured_noise_injection](examples/structured_noise_injection.ipynb)                           | Visually exploring a method for structured noise injection in GANs from CVPR 2020                 |
 | [visym_pip_175k](examples/visym_pip_175k.ipynb)                                                   | Exploring the People in Public 175K Dataset from Visym Labs with FiftyOne                         |
 | [wrangling_datasets](examples/wrangling_datasets.ipynb)                                           | Using FiftyOne to load, manipulate, and export datasets in common formats                         |
+| [open_images_evaluation](examples/open_images_evaluation/open_images_evaluation.ipynb)            | Evaluating the quality of the ground truth annotations of the Open Images Dataset with FiftyOne   |
 
 ## Contributing
 
