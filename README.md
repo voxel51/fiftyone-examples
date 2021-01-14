@@ -33,6 +33,7 @@ jupyter notebook examples/an_awesome_example.ipynb
 | Example                                                                                           | Description                                                                                       |
 | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | [quickstart](examples/quickstart.ipynb)                                                           | A quickstart example for getting your feet wet with FiftyOne                                      |
+| [walkthrough](examples/walkthrough.ipynb)                                                         | A more in-depth alternative to the quickstart that covers the basics of FiftyOne                  |
 | [comparing_YOLO_and_EfficientDet](examples/comparing_YOLO_and_EfficientDet.ipynb)                 | Compares the YOLOv4 and EfficientDet object detection models on the COCO dataset                  |
 | [deepfakes_in_politics](examples/deepfakes_in_politics.ipynb)                                     | Evaluating deepfakes using a deepfake detection algorithm and visualizing the results in FiftyOne |
 | [emotion_recognition_presidential_debate](examples/emotion_recognition_presidential_debate.ipynb) | Analyzing the 2020 US Presidential Debates using an emotion recognition model                     |
