@@ -6,7 +6,7 @@ Tensorflow Object Detection API.
 `TF_MODELS_RESEARCH` that specifies the path to the
 tensorflow [models/research directory](https://github.com/tensorflow/models/tree/master/research).
 
-Copyright 2017-2020, Voxel51, Inc.
+Copyright 2017-2021, Voxel51, Inc.
 voxel51.com
 """
 import os
