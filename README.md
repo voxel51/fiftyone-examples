@@ -2,47 +2,221 @@
 
 <img alt="FiftyOne" src="https://user-images.githubusercontent.com/25985824/94951983-346abe80-04b3-11eb-9717-9fb47fc8e5b2.png">
 
-[FiftyOne](http://www.voxel51.com/docs/fiftyone) is an open source machine
-learning tool created by [Voxel51](https://voxel51.com) that helps you rapidly
-experiment with your data and ML models. Check out the main github repository
-for the project at https://github.com/voxel51/fiftyone.
+[FiftyOne](http://www.voxel51.com/docs/fiftyone) is an open source ML tool
+created by [Voxel51](https://voxel51.com) that helps you build high-quality
+datasets and computer vision models. Check out the main github repository for
+the project at https://github.com/voxel51/fiftyone.
 
 This repository contains various examples of using FiftyOne to accomplish
 common tasks.
 
 ## Usage
 
-This repository assumes that you have `fiftyone` installed on your machine. See
-[this page](https://voxel51.com/docs/fiftyone/getting_started/install.html) for
-installation instructions, or refer to
-[this page](https://github.com/voxel51/fiftyone#installing-from-source) for
-instructions on installing FiftyOne from source.
+Each example in this repository is provided as a
+[Jupyter Notebook](https://jupyter.org). The table of contents below provides
+handy links for each example:
 
-Examples are typically provided as [Jupyter Notebooks](https://jupyter.org) to
-make it easy for users to download and run them. You can install Jupyter via
-[these instructions](https://jupyter.org/install).
+<img src="https://user-images.githubusercontent.com/25985824/104791629-6e618700-5769-11eb-857f-d176b37d2496.png" height="22" width="22">&nbsp;
+Click this link to **run** the notebook in
+[Google Colab](https://colab.research.google.com) (no setup required!)
 
-You can run a notebook as follows:
+<img src="https://user-images.githubusercontent.com/25985824/104791634-6efa1d80-5769-11eb-8a4c-71d6cb53ccf0.png" height="22" width="22">&nbsp;
+Click this link to **view** the notebook in
+[Jupyter nbviewer](https://nbviewer.jupyter.org)
 
+<img src="https://user-images.githubusercontent.com/25985824/104792428-60f9cc00-576c-11eb-95a4-5709d803023a.png" height="22" width="22">&nbsp;
+Click this link to **download** the notebook
+
+### Running examples locally
+
+You can always clone this repository:
+
+```shell
+git clone https://github.com/voxel51/fiftyone-examples
 ```
+
+and run any example locally. Make sure you have
+[Jupyter installed](https://jupyter.org/install) and then run:
+
+```shell
 jupyter notebook examples/an_awesome_example.ipynb
 ```
 
-## Table of Contents
+## Table of contents
 
-| Example                                                                                           | Description                                                                                       |
-| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| [quickstart](examples/quickstart.ipynb)                                                           | A quickstart example for getting your feet wet with FiftyOne                                      |
-| [walkthrough](examples/walkthrough.ipynb)                                                         | A more in-depth alternative to the quickstart that covers the basics of FiftyOne                  |
-| [comparing_YOLO_and_EfficientDet](examples/comparing_YOLO_and_EfficientDet.ipynb)                 | Compares the YOLOv4 and EfficientDet object detection models on the COCO dataset                  |
-| [deepfakes_in_politics](examples/deepfakes_in_politics.ipynb)                                     | Evaluating deepfakes using a deepfake detection algorithm and visualizing the results in FiftyOne |
-| [emotion_recognition_presidential_debate](examples/emotion_recognition_presidential_debate.ipynb) | Analyzing the 2020 US Presidential Debates using an emotion recognition model                     |
-| [evaluate_detections](examples/evaluate_detections.ipynb)                                         | Using FiftyOne to quantitatively and qualitatively evaluate object detections                     |
-| [image_uniqueness](examples/image_uniqueness.ipynb)                                               | Using FiftyOne's image uniqueness method to analyze and extract insights from unlabeled datasets  |
-| [structured_noise_injection](examples/structured_noise_injection.ipynb)                           | Visually exploring a method for structured noise injection in GANs from CVPR 2020                 |
-| [visym_pip_175k](examples/visym_pip_175k.ipynb)                                                   | Exploring the People in Public 175K Dataset from Visym Labs with FiftyOne                         |
-| [wrangling_datasets](examples/wrangling_datasets.ipynb)                                           | Using FiftyOne to load, manipulate, and export datasets in common formats                         |
-| [open_images_evaluation](examples/open_images_evaluation/open_images_evaluation.ipynb)            | Evaluating the quality of the ground truth annotations of the Open Images Dataset with FiftyOne   |
+<!-- Autogenerated by `scripts/make_examples.py` -->
+<table>
+    <tr>
+        <th align="center">Shortcuts</th>
+        <th align="center">Examples</th>
+        <th align="center">Description</th>
+    </tr>
+    <tr>
+        <td>
+            <a target="_blank" href="https://colab.research.google.com/github/voxel51/fiftyone-examples/blob/master/examples/quickstart.ipynb">
+                <img src="https://user-images.githubusercontent.com/25985824/104791629-6e618700-5769-11eb-857f-d176b37d2496.png" height="22" width="22">
+            </a>
+            <a target="_blank" href="https://nbviewer.jupyter.org/github/voxel51/fiftyone-examples/blob/master/examples/quickstart.ipynb">
+                <img src="https://user-images.githubusercontent.com/25985824/104791634-6efa1d80-5769-11eb-8a4c-71d6cb53ccf0.png" height="22" width="22">
+            </a>
+            <a id="raw-url" href="https://raw.githubusercontent.com/voxel51/fiftyone-examples/master/examples/quickstart.ipynb" download>
+                <img src="https://user-images.githubusercontent.com/25985824/104792428-60f9cc00-576c-11eb-95a4-5709d803023a.png" height="22" width="22">
+            </a>
+        </td>
+        <td><a href="examples/quickstart.ipynb">quickstart</a></td>
+        <td>A quickstart example for getting your feet wet with FiftyOne</td>
+    </tr>
+    <tr>
+        <td>
+            <a target="_blank" href="https://colab.research.google.com/github/voxel51/fiftyone-examples/blob/master/examples/walkthrough.ipynb">
+                <img src="https://user-images.githubusercontent.com/25985824/104791629-6e618700-5769-11eb-857f-d176b37d2496.png" height="22" width="22">
+            </a>
+            <a target="_blank" href="https://nbviewer.jupyter.org/github/voxel51/fiftyone-examples/blob/master/examples/walkthrough.ipynb">
+                <img src="https://user-images.githubusercontent.com/25985824/104791634-6efa1d80-5769-11eb-8a4c-71d6cb53ccf0.png" height="22" width="22">
+            </a>
+            <a id="raw-url" href="https://raw.githubusercontent.com/voxel51/fiftyone-examples/master/examples/walkthrough.ipynb" download>
+                <img src="https://user-images.githubusercontent.com/25985824/104792428-60f9cc00-576c-11eb-95a4-5709d803023a.png" height="22" width="22">
+            </a>
+        </td>
+        <td><a href="examples/walkthrough.ipynb">walkthrough</a></td>
+        <td>A more in-depth alternative to the quickstart that covers the basics of FiftyOne</td>
+    </tr>
+    <tr>
+        <td>
+            <a target="_blank" href="https://colab.research.google.com/github/voxel51/fiftyone-examples/blob/master/examples/comparing_YOLO_and_EfficientDet.ipynb">
+                <img src="https://user-images.githubusercontent.com/25985824/104791629-6e618700-5769-11eb-857f-d176b37d2496.png" height="22" width="22">
+            </a>
+            <a target="_blank" href="https://nbviewer.jupyter.org/github/voxel51/fiftyone-examples/blob/master/examples/comparing_YOLO_and_EfficientDet.ipynb">
+                <img src="https://user-images.githubusercontent.com/25985824/104791634-6efa1d80-5769-11eb-8a4c-71d6cb53ccf0.png" height="22" width="22">
+            </a>
+            <a id="raw-url" href="https://raw.githubusercontent.com/voxel51/fiftyone-examples/master/examples/comparing_YOLO_and_EfficientDet.ipynb" download>
+                <img src="https://user-images.githubusercontent.com/25985824/104792428-60f9cc00-576c-11eb-95a4-5709d803023a.png" height="22" width="22">
+            </a>
+        </td>
+        <td><a href="examples/comparing_YOLO_and_EfficientDet.ipynb">comparing_YOLO_and_EfficientDet</a></td>
+        <td>Compares the YOLOv4 and EfficientDet object detection models on the COCO dataset</td>
+    </tr>
+    <tr>
+        <td>
+            <a target="_blank" href="https://colab.research.google.com/github/voxel51/fiftyone-examples/blob/master/examples/deepfakes_in_politics.ipynb">
+                <img src="https://user-images.githubusercontent.com/25985824/104791629-6e618700-5769-11eb-857f-d176b37d2496.png" height="22" width="22">
+            </a>
+            <a target="_blank" href="https://nbviewer.jupyter.org/github/voxel51/fiftyone-examples/blob/master/examples/deepfakes_in_politics.ipynb">
+                <img src="https://user-images.githubusercontent.com/25985824/104791634-6efa1d80-5769-11eb-8a4c-71d6cb53ccf0.png" height="22" width="22">
+            </a>
+            <a id="raw-url" href="https://raw.githubusercontent.com/voxel51/fiftyone-examples/master/examples/deepfakes_in_politics.ipynb" download>
+                <img src="https://user-images.githubusercontent.com/25985824/104792428-60f9cc00-576c-11eb-95a4-5709d803023a.png" height="22" width="22">
+            </a>
+        </td>
+        <td><a href="examples/deepfakes_in_politics.ipynb">deepfakes_in_politics</a></td>
+        <td>Evaluating deepfakes using a deepfake detection algorithm and visualizing the results in FiftyOne</td>
+    </tr>
+    <tr>
+        <td>
+            <a target="_blank" href="https://colab.research.google.com/github/voxel51/fiftyone-examples/blob/master/examples/emotion_recognition_presidential_debate.ipynb">
+                <img src="https://user-images.githubusercontent.com/25985824/104791629-6e618700-5769-11eb-857f-d176b37d2496.png" height="22" width="22">
+            </a>
+            <a target="_blank" href="https://nbviewer.jupyter.org/github/voxel51/fiftyone-examples/blob/master/examples/emotion_recognition_presidential_debate.ipynb">
+                <img src="https://user-images.githubusercontent.com/25985824/104791634-6efa1d80-5769-11eb-8a4c-71d6cb53ccf0.png" height="22" width="22">
+            </a>
+            <a id="raw-url" href="https://raw.githubusercontent.com/voxel51/fiftyone-examples/master/examples/emotion_recognition_presidential_debate.ipynb" download>
+                <img src="https://user-images.githubusercontent.com/25985824/104792428-60f9cc00-576c-11eb-95a4-5709d803023a.png" height="22" width="22">
+            </a>
+        </td>
+        <td><a href="examples/emotion_recognition_presidential_debate.ipynb">emotion_recognition_presidential_debate</a></td>
+        <td>Analyzing the 2020 US Presidential Debates using an emotion recognition model</td>
+    </tr>
+    <tr>
+        <td>
+            <a target="_blank" href="https://colab.research.google.com/github/voxel51/fiftyone-examples/blob/master/examples/evaluate_detections.ipynb">
+                <img src="https://user-images.githubusercontent.com/25985824/104791629-6e618700-5769-11eb-857f-d176b37d2496.png" height="22" width="22">
+            </a>
+            <a target="_blank" href="https://nbviewer.jupyter.org/github/voxel51/fiftyone-examples/blob/master/examples/evaluate_detections.ipynb">
+                <img src="https://user-images.githubusercontent.com/25985824/104791634-6efa1d80-5769-11eb-8a4c-71d6cb53ccf0.png" height="22" width="22">
+            </a>
+            <a id="raw-url" href="https://raw.githubusercontent.com/voxel51/fiftyone-examples/master/examples/evaluate_detections.ipynb" download>
+                <img src="https://user-images.githubusercontent.com/25985824/104792428-60f9cc00-576c-11eb-95a4-5709d803023a.png" height="22" width="22">
+            </a>
+        </td>
+        <td><a href="examples/evaluate_detections.ipynb">evaluate_detections</a></td>
+        <td>Using FiftyOne to quantitatively and qualitatively evaluate object detections</td>
+    </tr>
+    <tr>
+        <td>
+            <a target="_blank" href="https://colab.research.google.com/github/voxel51/fiftyone-examples/blob/master/examples/image_uniqueness.ipynb">
+                <img src="https://user-images.githubusercontent.com/25985824/104791629-6e618700-5769-11eb-857f-d176b37d2496.png" height="22" width="22">
+            </a>
+            <a target="_blank" href="https://nbviewer.jupyter.org/github/voxel51/fiftyone-examples/blob/master/examples/image_uniqueness.ipynb">
+                <img src="https://user-images.githubusercontent.com/25985824/104791634-6efa1d80-5769-11eb-8a4c-71d6cb53ccf0.png" height="22" width="22">
+            </a>
+            <a id="raw-url" href="https://raw.githubusercontent.com/voxel51/fiftyone-examples/master/examples/image_uniqueness.ipynb" download>
+                <img src="https://user-images.githubusercontent.com/25985824/104792428-60f9cc00-576c-11eb-95a4-5709d803023a.png" height="22" width="22">
+            </a>
+        </td>
+        <td><a href="examples/image_uniqueness.ipynb">image_uniqueness</a></td>
+        <td>Using FiftyOne's image uniqueness method to analyze and extract insights from unlabeled datasets</td>
+    </tr>
+    <tr>
+        <td>
+            <a target="_blank" href="https://colab.research.google.com/github/voxel51/fiftyone-examples/blob/master/examples/structured_noise_injection.ipynb">
+                <img src="https://user-images.githubusercontent.com/25985824/104791629-6e618700-5769-11eb-857f-d176b37d2496.png" height="22" width="22">
+            </a>
+            <a target="_blank" href="https://nbviewer.jupyter.org/github/voxel51/fiftyone-examples/blob/master/examples/structured_noise_injection.ipynb">
+                <img src="https://user-images.githubusercontent.com/25985824/104791634-6efa1d80-5769-11eb-8a4c-71d6cb53ccf0.png" height="22" width="22">
+            </a>
+            <a id="raw-url" href="https://raw.githubusercontent.com/voxel51/fiftyone-examples/master/examples/structured_noise_injection.ipynb" download>
+                <img src="https://user-images.githubusercontent.com/25985824/104792428-60f9cc00-576c-11eb-95a4-5709d803023a.png" height="22" width="22">
+            </a>
+        </td>
+        <td><a href="examples/structured_noise_injection.ipynb">structured_noise_injection</a></td>
+        <td>Visually exploring a method for structured noise injection in GANs from CVPR 2020</td>
+    </tr>
+    <tr>
+        <td>
+            <a target="_blank" href="https://colab.research.google.com/github/voxel51/fiftyone-examples/blob/master/examples/visym_pip_175k.ipynb">
+                <img src="https://user-images.githubusercontent.com/25985824/104791629-6e618700-5769-11eb-857f-d176b37d2496.png" height="22" width="22">
+            </a>
+            <a target="_blank" href="https://nbviewer.jupyter.org/github/voxel51/fiftyone-examples/blob/master/examples/visym_pip_175k.ipynb">
+                <img src="https://user-images.githubusercontent.com/25985824/104791634-6efa1d80-5769-11eb-8a4c-71d6cb53ccf0.png" height="22" width="22">
+            </a>
+            <a id="raw-url" href="https://raw.githubusercontent.com/voxel51/fiftyone-examples/master/examples/visym_pip_175k.ipynb" download>
+                <img src="https://user-images.githubusercontent.com/25985824/104792428-60f9cc00-576c-11eb-95a4-5709d803023a.png" height="22" width="22">
+            </a>
+        </td>
+        <td><a href="examples/visym_pip_175k.ipynb">visym_pip_175k</a></td>
+        <td>Exploring the People in Public 175K Dataset from Visym Labs with FiftyOne</td>
+    </tr>
+    <tr>
+        <td>
+            <a target="_blank" href="https://colab.research.google.com/github/voxel51/fiftyone-examples/blob/master/examples/wrangling_datasets.ipynb">
+                <img src="https://user-images.githubusercontent.com/25985824/104791629-6e618700-5769-11eb-857f-d176b37d2496.png" height="22" width="22">
+            </a>
+            <a target="_blank" href="https://nbviewer.jupyter.org/github/voxel51/fiftyone-examples/blob/master/examples/wrangling_datasets.ipynb">
+                <img src="https://user-images.githubusercontent.com/25985824/104791634-6efa1d80-5769-11eb-8a4c-71d6cb53ccf0.png" height="22" width="22">
+            </a>
+            <a id="raw-url" href="https://raw.githubusercontent.com/voxel51/fiftyone-examples/master/examples/wrangling_datasets.ipynb" download>
+                <img src="https://user-images.githubusercontent.com/25985824/104792428-60f9cc00-576c-11eb-95a4-5709d803023a.png" height="22" width="22">
+            </a>
+        </td>
+        <td><a href="examples/wrangling_datasets.ipynb">wrangling_datasets</a></td>
+        <td>Using FiftyOne to load, manipulate, and export datasets in common formats</td>
+    </tr>
+    <tr>
+        <td>
+            <a target="_blank" href="https://colab.research.google.com/github/voxel51/fiftyone-examples/blob/master/examples/open_images_evaluation/open_images_evaluation.ipynb">
+                <img src="https://user-images.githubusercontent.com/25985824/104791629-6e618700-5769-11eb-857f-d176b37d2496.png" height="22" width="22">
+            </a>
+            <a target="_blank" href="https://nbviewer.jupyter.org/github/voxel51/fiftyone-examples/blob/master/examples/open_images_evaluation/open_images_evaluation.ipynb">
+                <img src="https://user-images.githubusercontent.com/25985824/104791634-6efa1d80-5769-11eb-8a4c-71d6cb53ccf0.png" height="22" width="22">
+            </a>
+            <a id="raw-url" href="https://raw.githubusercontent.com/voxel51/fiftyone-examples/master/examples/open_images_evaluation/open_images_evaluation.ipynb" download>
+                <img src="https://user-images.githubusercontent.com/25985824/104792428-60f9cc00-576c-11eb-95a4-5709d803023a.png" height="22" width="22">
+            </a>
+        </td>
+        <td><a href="examples/open_images_evaluation/open_images_evaluation.ipynb">open_images_evaluation</a></td>
+        <td>Evaluating the quality of the ground truth annotations of the Open Images Dataset with FiftyOne</td>
+    </tr>
+</table>
 
 ## Contributing
 
@@ -51,12 +225,19 @@ This repository is open source and community contributions are welcome!
 Check out the [contribution guide](CONTRIBUTING.md) to learn how to get
 involved.
 
-If you are contributing new material to this repository, please install the
-pre-commit hooks so that your changes will be passed through our linting tools:
+## Citation
 
-```
-pre-commit install
+If you use FiftyOne in your research, feel free to cite the project (but only
+if you love it 😊):
+
+```bibtex
+@article{moore2020fiftyone,
+  title={FiftyOne},
+  author={Moore, B. E. and Corso, J. J.},
+  journal={GitHub. Note: https://github.com/voxel51/fiftyone},
+  year={2020}
+}
 ```
 
-Check out the notebook templates in `templates/` to get started writing a new
-example.
+If you use a specific contributed example in this repository, please also cite
+the author directly (if one is specified).
