@@ -224,3 +224,20 @@ This repository is open source and community contributions are welcome!
 
 Check out the [contribution guide](CONTRIBUTING.md) to learn how to get
 involved.
+
+## Citation
+
+If you use FiftyOne in your research, feel free to cite the project (but only
+if you love it 😊):
+
+```bibtex
+@article{moore2020fiftyone,
+  title={FiftyOne},
+  author={Moore, B. E. and Corso, J. J.},
+  journal={GitHub. Note: https://github.com/voxel51/fiftyone},
+  year={2020}
+}
+```
+
+If you use a specific contributed example in this repository, please also cite
+the author directly (if one is specified).
