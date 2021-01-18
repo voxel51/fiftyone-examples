@@ -3,9 +3,9 @@
 <img alt="FiftyOne" src="https://user-images.githubusercontent.com/25985824/94951983-346abe80-04b3-11eb-9717-9fb47fc8e5b2.png">
 
 [FiftyOne](http://www.voxel51.com/docs/fiftyone) is an open source machine
-learning tool created by [Voxel51](https://voxel51.com) that helps you rapidly
-experiment with your data and ML models. Check out the main github repository
-for the project at https://github.com/voxel51/fiftyone.
+learning tool created by [Voxel51](https://voxel51.com) that helps you build
+high-quality datasets and ML models. Check out the main github repository for
+the project at https://github.com/voxel51/fiftyone.
 
 This repository contains various examples of using FiftyOne to accomplish
 common tasks.
@@ -16,16 +16,16 @@ Each example in this repository is provided as a
 [Jupyter Notebook](https://jupyter.org). The table of contents below provides
 handy links for each example:
 
-<img src="https://user-images.githubusercontent.com/25985824/104791629-6e618700-5769-11eb-857f-d176b37d2496.png" height="22" width="22"> &nbsp;
-Click this link to **run** the notebook in
+<img src="https://user-images.githubusercontent.com/25985824/104791629-6e618700-5769-11eb-857f-d176b37d2496.png" height="22" width="22">
+&nbsp; Click this link to **run** the notebook in
 [Google Colab](https://colab.research.google.com) (no setup required!)
 
-<img src="https://user-images.githubusercontent.com/25985824/104791634-6efa1d80-5769-11eb-8a4c-71d6cb53ccf0.png" height="22" width="22"> &nbsp;
-Click this link to **view** the notebook in
+<img src="https://user-images.githubusercontent.com/25985824/104791634-6efa1d80-5769-11eb-8a4c-71d6cb53ccf0.png" height="22" width="22">
+&nbsp; Click this link to **view** the notebook in
 [Jupyter nbviewer](https://nbviewer.jupyter.org)
 
-<img src="https://user-images.githubusercontent.com/25985824/104792428-60f9cc00-576c-11eb-95a4-5709d803023a.png" height="22" width="22"> &nbsp;
-Click this link to **download** the notebook
+<img src="https://user-images.githubusercontent.com/25985824/104792428-60f9cc00-576c-11eb-95a4-5709d803023a.png" height="22" width="22">
+&nbsp; Click this link to **download** the notebook
 
 ### Running examples locally
 
