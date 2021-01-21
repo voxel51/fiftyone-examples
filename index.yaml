@@ -32,3 +32,6 @@ examples:
   - title: "open_images_evaluation"
     path: "examples/open_images_evaluation/open_images_evaluation.ipynb"
     description: "Evaluating the quality of the ground truth annotations of the Open Images Dataset with FiftyOne"
+  - title: "working_with_feature_points"
+    path: "examples/working_with_feature_points.ipynb"
+    description: "A simple example of computing feature points for images and visualizing them in FiftyOne"
