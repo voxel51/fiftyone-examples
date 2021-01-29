@@ -243,7 +243,7 @@ jupyter notebook examples/an_awesome_example.ipynb
                 <img src="https://user-images.githubusercontent.com/25985824/104792428-60f9cc00-576c-11eb-95a4-5709d803023a.png" height="22" width="22">
             </a>
         </td>
-        <td><a href="examples/image_deduplication.ipynb">image_deduplication.ipynb</a></td>
+        <td><a href="examples/image_deduplication.ipynb">image_deduplication</a></td>
         <td>Find and remove duplicate images in your image datasets with FiftyOne</td>
     </tr>
 </table>
