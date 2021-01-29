@@ -1,7 +1,7 @@
 """
 Tensorflow Hub Object Detection
 
-Copyright 2017-2020, Voxel51, Inc.
+Copyright 2017-2021, Voxel51, Inc.
 voxel51.com
 """
 import csv

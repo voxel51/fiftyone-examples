@@ -9,7 +9,7 @@ said dataset has all necessary fields populated:
     - groundtruth_img_labels_field_name
     - prediction_field_name
 
-Copyright 2017-2020, Voxel51, Inc.
+Copyright 2017-2021, Voxel51, Inc.
 voxel51.com
 """
 import argparse

@@ -5,7 +5,7 @@ a pre-trained Tensorflow Hub detector and saving to CSV in either:
     - Tensorflow Object Detection API format
     - Open Images Kaggle Competition format
 
-Copyright 2017-2020, Voxel51, Inc.
+Copyright 2017-2021, Voxel51, Inc.
 voxel51.com
 """
 import argparse
