@@ -35,3 +35,6 @@ examples:
   - title: "working_with_feature_points"
     path: "examples/working_with_feature_points.ipynb"
     description: "A simple example of computing feature points for images and visualizing them in FiftyOne"
+  - title: "image_deduplication.ipynb"
+    path: "examples/image_deduplication.ipynb"
+    description: "Find and remove duplicate images in your image datasets with FiftyOne"
