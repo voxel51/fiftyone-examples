@@ -41,3 +41,6 @@ examples:
   - title: "hardness_for_image_classification"
     path: "examples/exploring_classification_hardness.ipynb"
     description: "Use the FiftyOne Brain to mine the hardest images in your classification dataset"
+  - title: "pytorch_detection_training"
+    path: "examples/pytorch_detection_training.ipynb"
+    description: "Using FiftyOne datasets to train a PyTorch object detection model"
