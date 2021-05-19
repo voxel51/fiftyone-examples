@@ -44,3 +44,6 @@ examples:
   - title: "pytorch_detection_training"
     path: "examples/pytorch_detection_training.ipynb"
     description: "Using FiftyOne datasets to train a PyTorch object detection model"
+  - title: "pytorchvideo_model_evaluation"
+    path: "examples/pytorchvideo_tutorial.ipynb"
+    description: "Evaluate and visualize PyTorchVideo models with FiftyOne"
