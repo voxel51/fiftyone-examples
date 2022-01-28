@@ -47,3 +47,6 @@ examples:
   - title: "pytorchvideo_model_evaluation"
     path: "examples/pytorchvideo_tutorial.ipynb"
     description: "Evaluate and visualize PyTorchVideo models with FiftyOne"
+  - title: "training_clearml_detector"
+    path: "examples/training_clearml_detector.ipynb"
+    description: "Train a model with ClearML and FiftyOne to detect DRAGONS!"
