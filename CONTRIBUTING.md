@@ -1,4 +1,4 @@
-# Contributing to `fiftyone-examples`
+# Contributing to Fiftyone Examples
 
 FiftyOne is open source and community contributions are welcome!
 
