@@ -50,3 +50,6 @@ examples:
   - title: "training_clearml_detector"
     path: "examples/training_clearml_detector.ipynb"
     description: "Train a model with ClearML and FiftyOne to detect DRAGONS!"
+  - title: "converting_tags_to_classifications"
+    path: "examples/convert_tags_to_classifications.ipynb"
+    description: "Convert classifications to tags and back to annotate them right in the FiftyOne App"
