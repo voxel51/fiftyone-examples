@@ -3,7 +3,7 @@ Script that prepares examples for publishing by
 -   Adding links to the header of the example notebooks
 -   Regenerating the table of contents in ``README.md``
 
-| Copyright 2017-2021, Voxel51, Inc.
+| Copyright 2017-2022, Voxel51, Inc.
 | `voxel51.com <https://voxel51.com/>`_
 |
 """

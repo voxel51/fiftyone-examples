@@ -2,8 +2,9 @@
 Script for loading Google's Open Images dataset into FiftyOne and saving as a
 persistent Dataset.
 
-Copyright 2017-2021, Voxel51, Inc.
-voxel51.com
+| Copyright 2017-2022, Voxel51, Inc.
+| `voxel51.com <https://voxel51.com/>`_
+|
 """
 import argparse
 from pathlib import Path
