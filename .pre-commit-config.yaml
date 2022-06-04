@@ -28,7 +28,7 @@ repos:
         exclude: ^examples/ # *do* commit ipynb outputs in `examples/`
         entry: jupyter nbconvert --clear-output --ClearOutputPreprocessor.enabled=True
         args: ["--log-level=ERROR"]
-  - repo: https://github.com/prettier/prettier
-    rev: 2.0.5
+  - repo: https://github.com/pre-commit/mirrors-prettier
+    rev: v2.6.2
     hooks:
       - id: prettier
