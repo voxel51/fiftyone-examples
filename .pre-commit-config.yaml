@@ -32,3 +32,4 @@ repos:
     rev: v2.6.2
     hooks:
       - id: prettier
+        language_version: system
