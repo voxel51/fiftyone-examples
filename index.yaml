@@ -53,3 +53,6 @@ examples:
   - title: "converting_tags_to_classifications"
     path: "examples/convert_tags_to_classifications.ipynb"
     description: "Convert classifications to tags and back to annotate them right in the FiftyOne App"
+  - title: "Qdrant_FiftyOne_Recipe"
+    path: "examples/Qdrant_FiftyOne_Recipe.ipynb"
+    description: "Nearest neighbor classification of embeddings with Qdrant"
