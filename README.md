@@ -332,7 +332,7 @@ jupyter notebook examples/an_awesome_example.ipynb
             </a>
         </td>
         <td><a href="examples/Qdrant_FiftyOne_Recipe.ipynb">Qdrant_FiftyOne_Recipe</a></td>
-        <td>Nearest Neighbor Classification of Embeddings with Qdrant</td>
+        <td>Nearest neighbor classification of embeddings with Qdrant</td>
     </tr>
 </table>
 

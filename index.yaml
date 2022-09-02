@@ -55,4 +55,4 @@ examples:
     description: "Convert classifications to tags and back to annotate them right in the FiftyOne App"
   - title: "Qdrant_FiftyOne_Recipe"
     path: "examples/Qdrant_FiftyOne_Recipe.ipynb"
-    description: "Nearest Neighbor Classification of Embeddings with Qdrant"
+    description: "Nearest neighbor classification of embeddings with Qdrant"
