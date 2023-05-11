@@ -56,3 +56,6 @@ examples:
   - title: "Qdrant_FiftyOne_Recipe"
     path: "examples/Qdrant_FiftyOne_Recipe.ipynb"
     description: "Nearest neighbor classification of embeddings with Qdrant"
+  - title: "armbench_defect_detection"
+    path: "examples/armbench_defect_detection.ipynb"
+    description: "Visualizing Defects in Amazon’s ARMBench Dataset Using Embeddings and OpenAI’s CLIP Model"
