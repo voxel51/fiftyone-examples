@@ -63,5 +63,5 @@ examples:
     path: "examples/armbench_defect_detection.ipynb"
     description: "Visualizing Defects in Amazon’s ARMBench Dataset Using Embeddings and OpenAI’s CLIP Model"
   - title: "openvino_model_horizontal_text_detection"
-    path: "examples/openvino-detection-with-fiftyone.ipynb"
+    path: "examples/openvino_detection_with_fiftyone.ipynb"
     description: "Horizontal text detection on Total-Text Dataset using OpenVino Model"
