@@ -71,3 +71,6 @@ examples:
   - title: "openvino_model_horizontal_text_detection"
     path: "examples/openvino_detection_with_fiftyone.ipynb"
     description: "Horizontal text detection on Total-Text Dataset using OpenVino Model"
+  - title: "football_player_segmentation"
+    path: "examples/football_player_segmentation.ipynb"
+    description: "Detection and Segmentation on Football Player Segmentation Dataset using SAM"  
