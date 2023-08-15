@@ -77,3 +77,6 @@ examples:
   - title: "football_player_segmentation"
     path: "examples/football_player_segmentation.ipynb"
     description: "Detection and Segmentation on Football Player Segmentation Dataset using SAM"  
+  - title: "wildme_conservation_datasets"
+    path: "examples/wildme_conservation_datasets"
+    description: "Create a 'meta' dataset out of three WildMe conservation datasets in FiftyOne"
