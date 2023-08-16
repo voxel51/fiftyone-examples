@@ -77,3 +77,6 @@ examples:
   - title: "football_player_segmentation"
     path: "examples/football_player_segmentation.ipynb"
     description: "Detection and Segmentation on Football Player Segmentation Dataset using SAM"  
+  - title: "zero_shot_instance_segmentation"
+    path: "examples/zero_shot_instance_segmentation.ipynb"
+    description: "Combine zero-shot detection plus segmentation and tracking with OWL-ViT, SAM, and FiftyOne"
