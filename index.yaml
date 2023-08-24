@@ -80,3 +80,6 @@ examples:
   - title: "wildme_conservation_datasets"
     path: "examples/wildme_conservation_datasets.ipynb"
     description: "Create a 'meta' dataset out of three WildMe conservation datasets in FiftyOne"
+  - title: "CLI Tips & Tricks"
+    path: "examples/Tips_and_Tricks_CLI.ipynb"
+    description: "Use FiftyOne's Command Line Interface to expedite your workflows"
