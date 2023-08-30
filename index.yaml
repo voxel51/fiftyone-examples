@@ -83,3 +83,6 @@ examples:
   - title: "CLI Tips & Tricks"
     path: "examples/Tips_and_Tricks_CLI.ipynb"
     description: "Use FiftyOne's Command Line Interface to expedite your workflows"
+  - title: "zero_shot_instance_segmentation"
+    path: "examples/zero_shot_instance_segmentation.ipynb"
+    description: "Combine zero-shot detection plus segmentation and tracking with OWL-ViT, SAM, and FiftyOne"
