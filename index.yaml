@@ -83,3 +83,7 @@ examples:
   - title: "CLI Tips & Tricks"
     path: "examples/Tips_and_Tricks_CLI.ipynb"
     description: "Use FiftyOne's Command Line Interface to expedite your workflows"
+  - title: "Grouped Dataset Tips & Tricks"
+    path: "examples/Grouped\ Datasets.ipynb"
+    description: "Learn how to work with grouped datasets in FiftyOne"
+
