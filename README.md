@@ -496,7 +496,8 @@ jupyter notebook examples/an_awesome_example.ipynb
                 <img src="https://user-images.githubusercontent.com/25985824/104792428-60f9cc00-576c-11eb-95a4-5709d803023a.png" height="22" width="22">
             </a>
         </td>
-        <td><a href="examples/Keypoints.ipynb">Learn to create keypoint skeletons in FiftyOne</td>
+        <td><a href="examples/Keypoints.ipynb">Keypoint Skeletons Tips & Tricks</a></td>
+        <td>Learn how to work with keypoint skeletons in FiftyOne</td>
     </tr>
 </table>
 
