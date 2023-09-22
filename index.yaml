@@ -86,4 +86,7 @@ examples:
   - title: "Grouped Dataset Tips & Tricks"
     path: "examples/Grouped\ Datasets.ipynb"
     description: "Learn how to work with grouped datasets in FiftyOne"
+  - title: "Polylines Tips & Tricks"
+    path: "Polylines.ipynb"
+    description: "Explore polylines in FiftyOne"
 
