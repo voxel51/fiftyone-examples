@@ -86,4 +86,6 @@ examples:
   - title: "Grouped Dataset Tips & Tricks"
     path: "examples/Grouped\ Datasets.ipynb"
     description: "Learn how to work with grouped datasets in FiftyOne"
-
+  - title: "3D Detections Tips & Tricks"
+    path: "examples/3D\ Detections.ipynb"
+    description: "Make your first 3D detection in point clouds using FiftyOne"

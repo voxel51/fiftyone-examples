@@ -484,6 +484,21 @@ jupyter notebook examples/an_awesome_example.ipynb
         <td><a href="examples/Grouped Datasets.ipynb">Grouped Dataset Tips & Tricks</a></td>
         <td>Learn how to work with grouped datasets in FiftyOne</td>
     </tr>
+    <tr>
+        <td>
+            <a target="_blank" href="https://colab.research.google.com/github/voxel51/fiftyone-examples/blob/master/examples/3D Detections.ipynb">
+                <img src="https://user-images.githubusercontent.com/25985824/104791629-6e618700-5769-11eb-857f-d176b37d2496.png" height="22" width="22">
+            </a>
+            <a target="_blank" href="https://nbviewer.jupyter.org/github/voxel51/fiftyone-examples/blob/master/examples/3D Detections.ipynb">
+                <img src="https://user-images.githubusercontent.com/25985824/104791634-6efa1d80-5769-11eb-8a4c-71d6cb53ccf0.png" height="22" width="22">
+            </a>
+            <a id="raw-url" href="https://raw.githubusercontent.com/voxel51/fiftyone-examples/master/examples/3D Detections.ipynb" download>
+                <img src="https://user-images.githubusercontent.com/25985824/104792428-60f9cc00-576c-11eb-95a4-5709d803023a.png" height="22" width="22">
+            </a>
+        </td>
+        <td><a href="examples/3D Detections.ipynb">3D Detections Tips & Tricks</a></td>
+        <td>Make your first 3D detection in point clouds using FiftyOne</td>
+    </tr>
 </table>
 
 ## Contributing
