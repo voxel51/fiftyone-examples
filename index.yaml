@@ -89,4 +89,6 @@ examples:
   - title: "Keypoint Tips & Tricks"
     path: "examples/Keypoints.ipynb"
     description: "Learn how to work with keypoint skeletons in FiftyOne"
-
+  - title: "3D Detections Tips & Tricks"
+    path: "examples/3D\ Detections.ipynb"
+    description: "Make your first 3D detection in point clouds using FiftyOne"
