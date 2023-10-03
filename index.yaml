@@ -92,3 +92,6 @@ examples:
   - title: "3D Detections Tips & Tricks"
     path: "examples/3D\ Detections.ipynb"
     description: "Make your first 3D detection in point clouds using FiftyOne"
+  - title: "Heatmaps Tips & Tricks"
+    path: "examples/heatmaps.ipynb"
+    description: "Learn how to use heatmaps with a body pose estimation example"
