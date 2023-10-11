@@ -95,3 +95,7 @@ examples:
   - title: "Heatmaps Tips & Tricks"
     path: "examples/heatmaps.ipynb"
     description: "Learn how to use heatmaps with a body pose estimation example"
+  - title: "Video Labels Tips & Tricks"
+    path: "examples/Video\ Labels.ipynb"
+    description: "Learn different label types in video datasets with ASL videos"
+
