@@ -98,4 +98,8 @@ examples:
   - title: "Video Labels Tips & Tricks"
     path: "examples/Video\ Labels.ipynb"
     description: "Learn different label types in video datasets with ASL videos"
+  - title: "Tracking Datasets with FiftyOne"
+    path: "Tracking_Datasets.ipynb"
+    description: "Learn how to load and work with tracking datasets with the help of FiftyOne"
+
 
