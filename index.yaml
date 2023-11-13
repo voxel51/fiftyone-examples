@@ -101,5 +101,10 @@ examples:
   - title: "Tracking Datasets with FiftyOne"
     path: "examples/Tracking_Datasets.ipynb"
     description: "Learn how to load and work with tracking datasets with the help of FiftyOne"
+  - title: "Finding Fake Images with FiftyOne Brain"
+    path: "examples/Fake_Butterfly_Demo.ipynb"
+    description: "Use the FiftyOne Brain to spot fake generated images in your dataset!"
+
+
 
 
