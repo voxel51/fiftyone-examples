@@ -104,5 +104,9 @@ examples:
   - title: "Tracking Datasets with FiftyOne"
     path: "Tracking_Datasets.ipynb"
     description: "Learn how to load and work with tracking datasets with the help of FiftyOne"
+  - title: "GradCam and More with FiftyOne"
+    path: "GradCam\ +\ More\ Tutorial.ipynb"
+    description: "Apply Model Explainability techniques to your workflows with FiftyOne and GradCam!"
+
 
 
