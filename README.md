@@ -821,7 +821,7 @@ Connect with us through your preferred channels:
 
 **Share your workflow improvements on social media and tag us @Voxel51 and #FiftyOne!**. 
 
-🎊 You will be in our rewarded list. 🎊
+🎊 You will be on our rewarded list. 🎊
 
 </p>
 </div>
