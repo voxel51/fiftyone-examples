@@ -16,7 +16,7 @@ The **Elderly Action Recognition Challenge** focuses on identifying Activities o
 
 ---
 
-## Repository Contents
+## Example Contents
 
 ### 1. **Notebook: `elderly_action_recognition.ipynb`**
 This notebook walks you through:
