@@ -50,6 +50,8 @@ pip install jupyterlab
 
 Download the GMDCSA24 dataset from Zenodo: https://doi.org/10.5281/zenodo.12921216
 
+---
+
 ## Usage
 
 1. Open the notebook:
@@ -69,10 +71,14 @@ jupyter lab elderly_action_recognition.ipynb
 session = fo.launch_app(dataset)
 ```
 
+---
+
 ## Output Formats
 
 - Video Classification Directory Tree: Organized for action classification tasks.
 - FiftyOne Dataset Format: Exported to leverage FiftyOne's advanced features.
+
+---
 
 ## Contributing
 We welcome contributions to improve the notebook or add new features! Including Model Training, Model Evaluation. Please submit a pull request or open an issue with your suggestions.
