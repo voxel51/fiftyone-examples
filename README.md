@@ -774,7 +774,7 @@ jupyter notebook examples/an_awesome_example.ipynb
                 <img src="https://user-images.githubusercontent.com/25985824/104792428-60f9cc00-576c-11eb-95a4-5709d803023a.png" height="22" width="22">
             </a>
         </td>
-        <td><a href="Tracking_Datasets.ipynb">Tracking Datasets with FiftyOne</a></td>
+        <td><a href="examples/Tracking_Datasets.ipynb">Tracking Datasets with FiftyOne</a></td>
         <td>Learn how to load and work with tracking datasets with the help of FiftyOne</td>
     </tr>
     <tr>
