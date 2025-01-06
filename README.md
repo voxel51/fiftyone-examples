@@ -774,7 +774,7 @@ jupyter notebook examples/an_awesome_example.ipynb
                 <img src="https://user-images.githubusercontent.com/25985824/104792428-60f9cc00-576c-11eb-95a4-5709d803023a.png" height="22" width="22">
             </a>
         </td>
-        <td><a href="Tracking_Datasets.ipynb">Tracking Datasets with FiftyOne</a></td>
+        <td><a href="examples/Tracking_Datasets.ipynb">Tracking Datasets with FiftyOne</a></td>
         <td>Learn how to load and work with tracking datasets with the help of FiftyOne</td>
     </tr>
     <tr>
@@ -789,8 +789,23 @@ jupyter notebook examples/an_awesome_example.ipynb
                 <img src="https://user-images.githubusercontent.com/25985824/104792428-60f9cc00-576c-11eb-95a4-5709d803023a.png" height="22" width="22">
             </a>
         </td>
-        <td><a href="GradCam + More Tutorial.ipynb">GradCam and More with FiftyOne</a></td>
+        <td><a href="examples/GradCam + More Tutorial.ipynb">GradCam and More with FiftyOne</a></td>
         <td>Apply Model Explainability techniques to your workflows with FiftyOne and GradCam!</td>
+    </tr>
+     <tr>
+        <td>
+            <a target="_blank" href="https://colab.research.google.com/github/voxel51/fiftyone-examples/blob/master/examples/elderly_action_recognition.ipynb">
+                <img src="https://user-images.githubusercontent.com/25985824/104791629-6e618700-5769-11eb-857f-d176b37d2496.png" height="22" width="22">
+            </a>
+            <a target="_blank" href="https://nbviewer.jupyter.org/github/voxel51/fiftyone-examples/blob/master/examples/elderly_action_recognition.ipynb">
+                <img src="https://user-images.githubusercontent.com/25985824/104791634-6efa1d80-5769-11eb-8a4c-71d6cb53ccf0.png" height="22" width="22">
+            </a>
+            <a id="raw-url" href="https://raw.githubusercontent.com/voxel51/fiftyone-examples/master/examples/elderly_action_recognition.ipynb" download>
+                <img src="https://user-images.githubusercontent.com/25985824/104792428-60f9cc00-576c-11eb-95a4-5709d803023a.png" height="22" width="22">
+            </a>
+        </td>
+        <td><a href="examples/elderly_action_recognition.ipynb">Elderly Action recognition Challenge with FiftyOne</a></td>
+        <td>Guide you through defining dataset paths, parsing action labels, categorizing activities, splitting videos into action-specific clips.</td>
     </tr>
 </table>
 

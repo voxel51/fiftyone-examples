@@ -107,6 +107,9 @@ examples:
   - title: "GradCam and More with FiftyOne"
     path: "GradCam\ +\ More\ Tutorial.ipynb"
     description: "Apply Model Explainability techniques to your workflows with FiftyOne and GradCam!"
+  - title: "Elderly Action Recognition - Challenge"
+    path: "examples/elderly_action_recognitio.ipynb"
+    description: "This notebook demonstrates the preparation of the GMDCSA24 dataset for the Elderly Action Recognition Challenge. It guides users through defining dataset paths, parsing action labels, categorizing activities, splitting videos into action-specific clips, and exporting the dataset in formats compatible with machine learning workflows. "
 
 
 
