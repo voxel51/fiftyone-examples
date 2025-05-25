@@ -45,8 +45,6 @@
 
 We created an open-source tool that supercharges your computer vision and machine learning workflows by enabling you to visualize datasets, analyze models, and improve data quality more efficiently than ever before. Embark with us in this adventure 🤝. **[FiftyOne](https://fiftyone.ai)**.
 
-![------------------------------------------------------------------](https://github.com/user-attachments/assets/fb0573d0-bb56-40ff-9ae1-a5e8f62f5f42)
-
 
 <div id='-prerequisites'/>
 
@@ -208,8 +206,6 @@ of FiftyOne.
     
 </details>
 
-![------------------------------------------------------------------](https://github.com/user-attachments/assets/fb0573d0-bb56-40ff-9ae1-a5e8f62f5f42)
-
 ## <img src="https://user-images.githubusercontent.com/25985824/106288517-2422e000-6216-11eb-871d-26ad2e7b1e59.png" height="20px"> Usage 🔥
 
 Each example in this repository is provided as a
@@ -241,7 +237,6 @@ and run any example locally. Make sure you have
 ```shell
 jupyter notebook examples/an_awesome_example.ipynb
 ```
-![------------------------------------------------------------------](https://github.com/user-attachments/assets/fb0573d0-bb56-40ff-9ae1-a5e8f62f5f42)
 
 ## List of Examples
 
@@ -809,7 +804,6 @@ jupyter notebook examples/an_awesome_example.ipynb
     </tr>
 </table>
 
-![------------------------------------------------------------------](https://github.com/user-attachments/assets/fb0573d0-bb56-40ff-9ae1-a5e8f62f5f42)
 <div id='-contributing'/>
 
 ## <img src="https://user-images.githubusercontent.com/25985824/106288517-2422e000-6216-11eb-871d-26ad2e7b1e59.png" height="20px"> contributing to FiftyOne Examples 🧡
@@ -842,8 +836,6 @@ Connect with us through your preferred channels:
 </div>
 
 
-![------------------------------------------------------------------](https://github.com/user-attachments/assets/fb0573d0-bb56-40ff-9ae1-a5e8f62f5f42)
-
 <div id='-contributors'/>
 
 ## <img src="https://user-images.githubusercontent.com/25985824/106288517-2422e000-6216-11eb-871d-26ad2e7b1e59.png" height="20px"> contributors 🤓
@@ -854,7 +846,6 @@ Special thanks to these amazing people for contributing to FiftyOne Examples! �
   <img src="https://contrib.rocks/image?repo=voxel51/fiftyone-examples" />
 </a>
 
-![------------------------------------------------------------------](https://github.com/user-attachments/assets/fb0573d0-bb56-40ff-9ae1-a5e8f62f5f42)
 <div id='-citation'/>
 
 ## <img src="https://user-images.githubusercontent.com/25985824/106288517-2422e000-6216-11eb-871d-26ad2e7b1e59.png" height="20px"> citation 📖
