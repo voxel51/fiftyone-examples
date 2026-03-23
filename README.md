@@ -31,12 +31,14 @@
 [![Docker Pulls](https://badgen.net/docker/pulls/voxel51/fiftyone?icon=docker&label=pulls)](https://hub.docker.com/r/voxel51/fiftyone/)
 [![Build](https://github.com/voxel51/fiftyone/workflows/Build/badge.svg?branch=develop&event=push)](https://github.com/voxel51/fiftyone/actions?query=workflow%3ABuild)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/fiftyone-community)
-[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)](https://slack.voxel51.com)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/voxel51)
-[![Mailing list](http://bit.ly/2Md9rxM)](https://share.hsforms.com/1zpJ60ggaQtOoVeBqIZdaaA2ykyk)
-[![Twitter](https://img.shields.io/twitter/follow/Voxel51?style=social)](https://twitter.com/voxel51)
 
+[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/fiftyone-community)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-purple?style=flat&logo=huggingface)](https://huggingface.co/Voxel51)
+[![Voxel51 Blog](https://img.shields.io/badge/Voxel51_Blog-ff6d04?style=flat)](https://voxel51.com/blog)
+[![Newsletter](https://img.shields.io/badge/Newsletter-BE5B25?logo=mail.ru&logoColor=white)](https://share.hsforms.com/1zpJ60ggaQtOoVeBqIZdaaA2ykyk)
+[![LinkedIn](https://img.shields.io/badge/In-white?style=flat&label=Linked&labelColor=blue)](https://www.linkedin.com/company/voxel51)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=white)](https://x.com/voxel51)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/voxel51)
 
 </p>
 </div>
@@ -44,7 +46,6 @@
 # 👋 hey there!
 
 We created an open-source tool that supercharges your computer vision and machine learning workflows by enabling you to visualize datasets, analyze models, and improve data quality more efficiently than ever before. Embark with us in this adventure 🤝. **[FiftyOne](https://fiftyone.ai)**.
-
 
 <div id='-prerequisites'/>
 
@@ -170,7 +171,6 @@ source fiftyone_env/bin/activate
 
 Now you are ready to install **Fiftyone** and all the requirements/packages/dependencies. Go to [Installation](#-installation) section in this Readme file.
 
-
 </details>
 
 <details>
@@ -182,7 +182,6 @@ Refer to
 [these instructions](https://voxel51.com/docs/fiftyone/environments/index.html#docker)
 to see how to build and run Docker images containing source or release builds
 of FiftyOne.
-
 
 </details>
 
@@ -808,7 +807,6 @@ jupyter notebook examples/an_awesome_example.ipynb
 
 ## <img src="https://user-images.githubusercontent.com/25985824/106288517-2422e000-6216-11eb-871d-26ad2e7b1e59.png" height="20px"> contributing to FiftyOne Examples 🧡
 
-
 This repository is open source and community contributions are welcome!
 
 Check out the [contribution guide](CONTRIBUTING.md) to learn how to get
@@ -821,11 +819,6 @@ involved.
 
 Connect with us through your preferred channels:
     
-[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/fiftyone-community)
-[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)](https://slack.voxel51.com)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/voxel51)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/voxel51)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/voxel51)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/voxel51)
 
 **Share your workflow improvements on social media and tag us @Voxel51 and #FiftyOne!**. 
@@ -834,7 +827,6 @@ Connect with us through your preferred channels:
 
 </p>
 </div>
-
 
 <div id='-contributors'/>
 
@@ -860,7 +852,4 @@ If you use a specific contributed example in this repository, feel free to cite 
   year={2020}
 }
 ```
-
-
-
 
